@@ -29,5 +29,5 @@ hist(Global_active_power,
      main = "Global Active Power", 
      xlab = "Global Active Power (kilowatts)",
      breaks = 12, ylim = c(0, 1200))
-#
+# shuts down the specified (by default the current) device.
 dev.off()
