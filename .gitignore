@@ -1,7 +1,7 @@
 # Basic files
 .DS_Store
-# household_power_consumption.txt
-# household_power_consumption.zip
+# Because of file size limit.
+household_power_consumption.txt
 
 # History files
 .Rhistory
