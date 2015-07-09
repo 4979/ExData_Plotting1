@@ -6,6 +6,9 @@
 # @date 		: 09-July-2015
 # =======================================================
 
+## Set the Working Directory.
+setwd("~/Desktop/Exploratory Data Analysis/Course-Project-01")
+
 ## This file is for loading the large dataset of Household Power Consumption.
 ## data/household_power_consumption.txt = The dataset has 2,075,259 rows and 9 columns.
 filename <- "./data/household_power_consumption.txt"
